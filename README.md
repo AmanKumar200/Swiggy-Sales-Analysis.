@@ -83,7 +83,7 @@ It helps stakeholders quickly track KPIs, identify growth opportunities, and mak
 - Restaurant Information  
 - Location & City Data  
 
-*(Data was cleaned, structured, and transformed using Power Query before analysis.)*
+[DATASET](https://github.com/AmanKumar200/Swiggy-Sales-Analysis./blob/32abc12ba817b6c58e54c285819d6cfd6db8ee65/Swiggy%20Raw%20Data%20Excel.xlsb)
 
 ---
 
@@ -105,7 +105,8 @@ This dashboard enables Swiggy’s business teams to:
 ---
 
 ## 📸 Dashboard Preview  
-_Add dashboard screenshot here_
+<img width="1539" height="921" alt="Screenshot 2026-01-20 031353" src="https://github.com/user-attachments/assets/1976588a-cf2a-4c92-a947-0b810c2e3404" />
+
 
 ---
 
